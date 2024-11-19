@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/32LEtADcrNoAAAAM/monkey.gif" >
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakshat28" alt="rakshat28" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/@singh_rakshat" target="blank"><img src="https://img.shields.io/twitter/follow/@singh_rakshat?logo=twitter&style=for-the-badge" alt="@singh_rakshat" /></a> </p>
 

@@ -21,6 +21,9 @@
 
 - ⚡ Fun fact **You can make me code for some sweets**
 
+- ![Profile views](https://komarev.com/ghpvc/?username=Rakshat28)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@singh_rakshat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@singh_rakshat" height="30" width="40" /></a>

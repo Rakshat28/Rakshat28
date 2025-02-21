@@ -1,7 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/97012708/233769558-710dd1c2-75c1-4e35-bf96-7d125a4c25b2.gif)
 <h1 align="center">Hi 👋, I'm Rakshat</h1>
 <h3 align="center">A passionate developer from India</h3>
-![Rakshat28's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rakshat28&theme=vue-dark&hide_border=true)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rakshat28&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />

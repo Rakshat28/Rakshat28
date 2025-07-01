@@ -78,6 +78,7 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Rakshat28/count.svg?"  />
 </div>
-![Rakshat28's Stats](https://github-readme-stats.vercel.app/api?username=Rakshat28&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 
 ###
+![Rakshat28's Stats](https://github-readme-stats.vercel.app/api?username=Rakshat28&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)

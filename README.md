@@ -1,11 +1,9 @@
 ![MasterHead](https://user-images.githubusercontent.com/97012708/233769558-710dd1c2-75c1-4e35-bf96-7d125a4c25b2.gif)
 <h1 align="center">Hi 👋, I'm Rakshat</h1>
-<h3 align="center">A passionate developer from India</h3>
 
 
 ###
 
-<img align="right" height="150" src="https://imgs.search.brave.com/PlYrVHYa6QNo0fcUtGP9zuWk9_eebsLapJsYXXkjC1U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTQuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhPRE50YzIxaU5H/dHdjMjFqWW5CeVlY/cGpjWEF3ZFhwb2NH/TTRPR05pWm01amIy/MDRabTF5TkNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vOHl5Skg0eXpx/Z3gwWS8yMDAuZ2lm.gif"  />
 
 ###
 
